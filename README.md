@@ -1,2 +1,2 @@
-# interactive-map
-An interactive map with other features
+## 🎣 React Hooks TypeScript Interactive Map
+
